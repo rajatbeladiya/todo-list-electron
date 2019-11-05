@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "todo list desktop app using electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajatbeladiya/todo-list-electron.git"
+  },
+  "author": "Rajat Beladiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajatbeladiya/todo-list-electron/issues"
+  },
+  "homepage": "https://github.com/rajatbeladiya/todo-list-electron#readme",
+  "dependencies": {
+    "electron": "^7.0.1"
+  }
+}
