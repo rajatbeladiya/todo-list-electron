@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/rajatbeladiya/todo-list-electron#readme",
   "dependencies": {
-    "electron": "^7.0.1"
+    "electron": "^7.2.4"
   }
 }
